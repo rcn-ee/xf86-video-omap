@@ -9,6 +9,7 @@ the following chipsets:
   + OMAP4460
   + OMAP5430
   + OMAP5432
+  + AM572x
 
 
 NOTE: this driver is work in progress..  you probably don't want to try

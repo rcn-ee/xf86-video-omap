@@ -184,7 +184,7 @@ static inline Bool has_video(OMAPPtr pOMAP)
 
 static inline Bool has_dmm(OMAPPtr pOMAP)
 {
-	return pOMAP->chipset >= 0x4430;
+	return pOMAP->chipset >= 0x4430 || pOMAP->chipset == 0x0752;
 }
 
 static inline Bool has_rotation(OMAPPtr pOMAP)
