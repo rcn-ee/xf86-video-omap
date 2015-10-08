@@ -42,3 +42,10 @@ Release 0.4.3 (2012-01-11)
 
 * DRI2: Fix potential triple-buffer loop in SwapComplete
 
+Release 0.4.4 (2015-10-08)
+==========================
+
+* Bug fixes
+
+* AM572x support
+
